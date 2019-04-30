@@ -4,5 +4,6 @@
 
 ### Run
 ```
+yarn // npm i
 npx babel-node stage-3/class-properties.js
 ```
