@@ -1,0 +1,20 @@
+# Node
+node_modules/
+npm-debug*
+yarn-error.log
+
+# Build
+build/logs/
+config/build/gen/
+client/scripts/gen/
+public/
+tmp/
+server/lib/
+
+# New relic
+newrelic_agent.log
+
+# Marko
+*.marko.js
+
+helm/*/charts/*

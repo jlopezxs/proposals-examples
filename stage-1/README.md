@@ -1,0 +1,1 @@
+[export-default-from](https://github.com/tc39/proposal-export-default-from)
